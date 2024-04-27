@@ -36,16 +36,14 @@ theme_switch: on         # Show color switch (on | off)
 # Extra settings
 blog: off                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
-avatar_image: "assets/img/khoiava.jpg"
+avatar_image: "assets/img/khoiava.jpeg"
 avatar_description: "Hà Khói Food"
 highlighter_theme: pastie  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
 toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
   - Bio
-  - Research
-  - Teaching
-  - PublicGoods
+  - Products
 
 # Collections
 collections:
