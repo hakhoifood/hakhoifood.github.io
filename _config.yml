@@ -25,8 +25,6 @@ url: "https://hakhoifood.github.io" # the base hostname & protocol for your site
 # ------------------------------------------------------------------------------
 # Useful links
 github_username: "hakhoifood"
-twitter_username: "Christine_Cai27"
-linkedin_id: "christinecai"
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
@@ -38,7 +36,7 @@ theme_switch: on         # Show color switch (on | off)
 # Extra settings
 blog: off                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
-avatar_image: "assets/img/avatar.jpg"
+avatar_image: "assets/img/khoiava.jpg"
 avatar_description: "Hà Khói Food"
 highlighter_theme: pastie  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
